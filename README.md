@@ -1,0 +1,1 @@
+This is Adam Cordell's first GIT project!
